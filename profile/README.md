@@ -1,4 +1,6 @@
-## Hi there 👋
+# PLANT.ME Organization
+
+🌱 PLANT.ME is a mobile app created to help people develop the habit of caring for their house plants
 
 <!--
 
